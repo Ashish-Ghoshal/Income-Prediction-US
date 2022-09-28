@@ -5,7 +5,7 @@
 
 ## Problem Statement
 
-In this [notebook](predict-us-census-income.ipynb), we try to predict a person's income is above or below 50K$/yr based on features such as workclass, number of years of education, occupation, relationship, marital status, hours worked per week, race, sex etc. But the catch is here we will do entirely in PySpark. We will use the most basic model of Logistic Regression here. The goal of the notebook is not to get too fancy with the choice of the Algorithms but its more on how can you achieve or at least try to achieve what you could do using scikit-learn and pandas.
+In this [notebook](predict-us-census-income.ipynb), we try to predict a person's income is above or below 50K$/yr based on features such as workclass, number of years of education, occupation, relationship, marital status, hours worked per week, race, sex etc. But the catch is here we will do entirely in PySpark. We will use the most basic model of Logistic Regression here. 
 
 ## BINARY CLASSIFICATION : LOGISTIC REGRESSION
 
